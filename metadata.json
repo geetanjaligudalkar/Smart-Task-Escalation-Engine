@@ -1,0 +1,6 @@
+{
+  "name": "Smart Task Escalation Engine",
+  "description": "An automated system for Powerweave to scan overdue tasks, execute GenAI-driven escalation paths, draft manager notifications, and support role-based permissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
